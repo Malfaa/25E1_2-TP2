@@ -1,0 +1,14 @@
+/home/marufa/Developer/Engenharia_de_software/Fundamentos_de_Desenvolvimento_com_C#/TP2/TP2/bin/Debug/net9.0/TP2
+/home/marufa/Developer/Engenharia_de_software/Fundamentos_de_Desenvolvimento_com_C#/TP2/TP2/bin/Debug/net9.0/TP2.deps.json
+/home/marufa/Developer/Engenharia_de_software/Fundamentos_de_Desenvolvimento_com_C#/TP2/TP2/bin/Debug/net9.0/TP2.runtimeconfig.json
+/home/marufa/Developer/Engenharia_de_software/Fundamentos_de_Desenvolvimento_com_C#/TP2/TP2/bin/Debug/net9.0/TP2.dll
+/home/marufa/Developer/Engenharia_de_software/Fundamentos_de_Desenvolvimento_com_C#/TP2/TP2/bin/Debug/net9.0/TP2.pdb
+/home/marufa/Developer/Engenharia_de_software/Fundamentos_de_Desenvolvimento_com_C#/TP2/TP2/obj/Debug/net9.0/TP2.GeneratedMSBuildEditorConfig.editorconfig
+/home/marufa/Developer/Engenharia_de_software/Fundamentos_de_Desenvolvimento_com_C#/TP2/TP2/obj/Debug/net9.0/TP2.AssemblyInfoInputs.cache
+/home/marufa/Developer/Engenharia_de_software/Fundamentos_de_Desenvolvimento_com_C#/TP2/TP2/obj/Debug/net9.0/TP2.AssemblyInfo.cs
+/home/marufa/Developer/Engenharia_de_software/Fundamentos_de_Desenvolvimento_com_C#/TP2/TP2/obj/Debug/net9.0/TP2.csproj.CoreCompileInputs.cache
+/home/marufa/Developer/Engenharia_de_software/Fundamentos_de_Desenvolvimento_com_C#/TP2/TP2/obj/Debug/net9.0/TP2.dll
+/home/marufa/Developer/Engenharia_de_software/Fundamentos_de_Desenvolvimento_com_C#/TP2/TP2/obj/Debug/net9.0/refint/TP2.dll
+/home/marufa/Developer/Engenharia_de_software/Fundamentos_de_Desenvolvimento_com_C#/TP2/TP2/obj/Debug/net9.0/TP2.pdb
+/home/marufa/Developer/Engenharia_de_software/Fundamentos_de_Desenvolvimento_com_C#/TP2/TP2/obj/Debug/net9.0/TP2.genruntimeconfig.cache
+/home/marufa/Developer/Engenharia_de_software/Fundamentos_de_Desenvolvimento_com_C#/TP2/TP2/obj/Debug/net9.0/ref/TP2.dll
