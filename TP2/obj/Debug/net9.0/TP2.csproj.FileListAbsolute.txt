@@ -12,3 +12,4 @@
 /home/marufa/Developer/Engenharia_de_software/Fundamentos_de_Desenvolvimento_com_C#/TP2/TP2/obj/Debug/net9.0/TP2.pdb
 /home/marufa/Developer/Engenharia_de_software/Fundamentos_de_Desenvolvimento_com_C#/TP2/TP2/obj/Debug/net9.0/TP2.genruntimeconfig.cache
 /home/marufa/Developer/Engenharia_de_software/Fundamentos_de_Desenvolvimento_com_C#/TP2/TP2/obj/Debug/net9.0/ref/TP2.dll
+/home/marufa/Developer/Engenharia_de_software/Fundamentos_de_Desenvolvimento_com_C#/TP2/TP2/obj/Debug/net9.0/TP2.sourcelink.json

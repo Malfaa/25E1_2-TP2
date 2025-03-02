@@ -1,12 +1,10 @@
 using System.Globalization;
-using System.Security.AccessControl;
-using Microsoft.VisualBasic.CompilerServices;
 
 namespace TP2.Parte1;
 
 public class Exercicio2
 {
-    public static void ProximoAniversario()
+    public void ProximoAniversario()
     {
         Console.WriteLine("Digite sua data de nascimento: ");
         String dataNascimentoString = Console.ReadLine()!;
@@ -30,7 +28,7 @@ public class Exercicio2
         }
         else
         {
-            Console.WriteLine("Valor digitado inválido");
+            Console.WriteLine("Valor colocado inválido");
         }
 
         
